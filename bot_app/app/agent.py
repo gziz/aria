@@ -21,7 +21,7 @@ class OpenAIClient:
                 }
             ],
             temperature=0.8,
-            max_tokens=256,
+            max_tokens=2048,
             top_p=1
         )
         return response
