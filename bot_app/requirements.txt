@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2==2.9.4
+python-dotenv
+httpx
+sqlalchemy-utils
+pydantic-settings
+openai
